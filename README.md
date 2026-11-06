@@ -1,3 +1,4 @@
+[Uploading Credit_Card_Fraud_Analysis.xlsx…]()
 # credit-card-fraud-analytics-brd
 Credit Card Fraud Analytics: Identifying Unusual Spending Behavior
 [CC_Fraud_analysis_SQLDB_queries_Divya.sql](https://github.com/user-attachments/files/34484495/CC_Fraud_analysis_SQLDB_queries_Divya.sql)
