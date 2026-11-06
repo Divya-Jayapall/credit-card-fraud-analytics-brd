@@ -1,6 +1,11 @@
-# credit-card-fraud-analytics-brd
-Credit Card Fraud Analytics: Identifying Unusual Spending Behavior
-[CC_Fraud_analysis_SQLDB_queries_Divya.sql](https://github.com/user-attachments/files/34484495/CC_Fraud_analysis_SQLDB_queries_Divya.sql)
-[BRD_CC Fraud Analytics - Divya Jayapall.pdf](https://github.com/user-attachments/files/34484500/BRD_CC.Fraud.Analytics.-.Divya.Jayapall.pdf)
+# 💳 Credit Card Fraud Analytics (BRD)
+
+**Project Goal:** Identifying unusual spending behavior and mitigating transaction risks using SQL database analytics and interactive data modeling.
+
+### 📁 Project Deliverables
+* [📄 Business Requirement Document (BRD PDF)](BRD_CC%20Fraud%20Analytics%20-%20Divya%20Jayapall.pdf)
+* [🔍 SQL Database Analytics Queries](CC_Fraud_analysis_SQLDB_queries_Divya.sql)
+* [📊 Interactive Power BI Dashboard File](CC_Fraud_analysis_PBI_Dashboard.pbix) *(Download to view locally)*
+
 ## 📊 Dashboard Preview
 ![Fraud Analytics Dashboard](CC_Fraud_analysis_PBI_Dashboard.png)
